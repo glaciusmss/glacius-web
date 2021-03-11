@@ -1,4 +1,4 @@
-# glacius-web-vue
+# glacius-web
 
 ## Project setup
 ```
